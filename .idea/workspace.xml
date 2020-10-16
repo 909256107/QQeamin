@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab684fcc-bb48-4842-9230-d6176652d0ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iwml1YVhAkZKPVOCdmOan4ssmq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dfq_Work\qqemail\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.QqemailApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTest.sendSimpleMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qqemail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itdfq.qqemail.Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itdfq.qqemail.Service" />
+      <option name="MAIN_CLASS_NAME" value="com.itdfq.qqemail.Service.ServiceTest" />
+      <option name="METHOD_NAME" value="sendSimpleMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QqemailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qqemail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itdfq.qqemail.QqemailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServiceTest.sendSimpleMail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab684fcc-bb48-4842-9230-d6176652d0ba" name="Default Changelist" comment="" />
+      <created>1602827175656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602827175656</updated>
+      <workItem from="1602827179633" duration="3699000" />
+      <workItem from="1602830949961" duration="1468000" />
+      <workItem from="1602832443838" duration="39000" />
+      <workItem from="1602833045970" duration="94000" />
+    </task>
+    <task id="LOCAL-00001" summary="sb">
+      <created>1602831473309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602831473309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交代码">
+      <created>1602832106894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602832106894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sb" />
+    <MESSAGE value="提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="0" key="CommitChangelistDialog2" timestamp="1602832105390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="432" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602832105390" />
+    <state x="824" y="214" key="FileChooserDialogImpl" timestamp="1602831990708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="824" y="214" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602831990708" />
+    <state x="795" y="392" width="329" height="351" key="Github.ShareDialog" timestamp="1602832460543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="392" width="329" height="351" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602832460543" />
+    <state x="731" y="47" key="Github.UntrackedFilesDialog" timestamp="1602832036496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="47" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602832036496" />
+    <state width="1865" height="108" key="GridCell.Tab.0.bottom" timestamp="1602830884253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="108" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602830884253" />
+    <state width="1865" height="108" key="GridCell.Tab.0.center" timestamp="1602830884253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="108" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602830884253" />
+    <state width="1865" height="108" key="GridCell.Tab.0.left" timestamp="1602830884253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="108" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602830884253" />
+    <state width="1865" height="108" key="GridCell.Tab.0.right" timestamp="1602830884253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="108" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602830884253" />
+    <state width="1865" height="108" key="GridCell.Tab.1.bottom" timestamp="1602830884253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="108" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602830884253" />
+    <state width="1865" height="108" key="GridCell.Tab.1.center" timestamp="1602830884253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="108" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602830884253" />
+    <state width="1865" height="108" key="GridCell.Tab.1.left" timestamp="1602830884253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="108" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602830884253" />
+    <state width="1865" height="108" key="GridCell.Tab.1.right" timestamp="1602830884253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="108" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602830884253" />
+    <state x="374" y="89" key="Maven.ArtifactSearchDialog" timestamp="1602827937231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="374" y="89" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602827937231" />
+    <state x="329" y="77" width="1536" height="886" key="SettingsEditor" timestamp="1602832470743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="329" y="77" width="1536" height="886" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602832470743" />
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2" timestamp="1602832112212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602832112212" />
+    <state x="714" y="396" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602832003216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="396" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602832003216" />
+    <state x="749" y="259" key="svn.repositoryBrowser" timestamp="1602831983326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="259" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1602831983326" />
+  </component>
+</project>
